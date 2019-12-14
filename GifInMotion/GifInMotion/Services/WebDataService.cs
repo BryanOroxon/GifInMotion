@@ -16,7 +16,7 @@ namespace GifInMotion.Services
 
         public async Task<IEnumerable<Movies>> GetCountriesAsync()
         {
-            var json = await Client.GetStringAsync("https://raw.githubusercontent.com/BryanOroxon/DemoCollectionView/master/DemoCollectionView/DemoCollectionView/Data/countrydata.json");
+            var json = await Client.GetStringAsync("https://raw.githubusercontent.com/BryanOroxon/GifInMotion/master/GifInMotion/GifInMotion/Data/movie.json?token=AGBPGOMDZPMFZMM7PE73ZGS56VHE2");
             var all = Movies.FromJson(json);
             return all;
         }
