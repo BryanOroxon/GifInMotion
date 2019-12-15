@@ -14,9 +14,9 @@ namespace GifInMotion.Services
 
         HttpClient Client => httpClient ?? (httpClient = new HttpClient());
 
-        public async Task<IEnumerable<Movies>> GetCountriesAsync()
+        public async Task<IEnumerable<Movies>> GetMoviesAsync()
         {
-            var json = await Client.GetStringAsync("https://raw.githubusercontent.com/BryanOroxon/GifInMotion/master/GifInMotion/GifInMotion/Data/movie.json?token=AGBPGOMDZPMFZMM7PE73ZGS56VHE2");
+            var json = await Client.GetStringAsync("https://raw.githubusercontent.com/BryanOroxon/GifInMotion/master/GifInMotion/GifInMotion/Data/movie.json");
             var all = Movies.FromJson(json);
             return all;
         }
