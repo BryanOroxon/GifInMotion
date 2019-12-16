@@ -1,182 +1,224 @@
 ﻿[
-  {
-    "No.": "1",
-    "Title": "STAR WARS",
-    "Link": "https://media.giphy.com/media/l1uguGf2RVIsTXNDO/giphy.gif",
-    "Episode": "I"
-  },
-  {
-    "No.": "2",
-    "Title": "Gungans Battle",
-    "Link": "https://media.giphy.com/media/3owzVQch8fzfptlES4/giphy.gif",
-    "Episode": "I"
-  },
-  {
-    "No.": "3",
-    "Title": "Naboo escape",
-    "Link": "http://s2.photobucket.com/albums/y5/albumuser/sw/TPM_TFbattleship_quadguns_B.gif",
-    "Episode": "I"
-  },
-  {
-    "No.": "4",
-    "Title": "Pod Race 1",
-    "Link": "https://media.giphy.com/media/3owzWgnMr5vS37fBsc/giphy.gif",
-    "Episode": "I"
-  },
-  {
-    "No.": "5",
-    "Title": "Pod Race 2",
-    "Link": "https://media.giphy.com/media/Cz0sBt2PWecFi/giphy.gif",
-    "Episode": "I"
-  },
-  {
-    "No.": "6",
-    "Title": "Pod Race 3",
-    "Link": "https://66.media.tumblr.com/dca871b6fcb5666f102522d1bad4cfef/tumblr_n0qyrfnya41r7nvf3o1_400.gifv",
-    "Episode": "I"
-  },
-  {
-    "No.": "7",
-    "Title": "Pod Race 4",
-    "Link": "https://i.makeagif.com/media/4-17-2017/va1cPD.gif",
-    "Episode": "I"
-  },
-  {
-    "No.": "8",
-    "Title": "Darth Maul Figth",
-    "Link": "https://media.giphy.com/media/l3fZPJRijJdedIDAY/giphy.gif",
-    "Episode": "I"
-  },
-  {
-    "No.": "1",
-    "Title": "Coruscant ",
-    "Link": "https://media.giphy.com/media/4fjKLs0CZ4i7m/giphy.gif",
-    "Episode": "II"
-  },
-  {
-    "No.": "2",
-    "Title": "Yoda Padawans",
-    "Link": "https://media.giphy.com/media/26uf4pUSKZkDe9t5u/giphy.gif",
-    "Episode": "II"
-  },
-  {
-    "No.": "3",
-    "Title": "Geonosis 1",
-    "Link": "https://media.giphy.com/media/l1J3rifOpFPOGg7nO/giphy.gif",
-    "Episode": "II"
-  },
-  {
-    "No.": "4",
-    "Title": "Geonosis 2",
-    "Link": "https://media.giphy.com/media/QZmvO4brtXgCQ/giphy.gif",
-    "Episode": "II"
-  },
-  {
-    "No.": "5",
-    "Title": "Geonosis 3",
-    "Link": "https://media.giphy.com/media/jXOdWw9pKxuU/giphy.gif",
-    "Episode": "II"
-  },
-  {
-    "No.": "6",
-    "Title": "Geonosis 4",
-    "Link": "https://media.giphy.com/media/3ohuAf73bPJQWaf7Da/giphy.gif",
-    "Episode": "II"
-  },
-  {
-    "No.": "1",
-    "Title": "Coruscant Battle 1",
-    "Link": "https://media.giphy.com/media/52dxW0u8NCVUI/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "2",
-    "Title": "Coruscant Battle 2",
-    "Link": "https://media.giphy.com/media/LEZu94dmegfIY/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "3",
-    "Title": "Coruscant Battle 3",
-    "Link": "https://media.giphy.com/media/5ExLjVUhCWIi4/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "4",
-    "Title": "Scape Pods",
-    "Link": "https://media.giphy.com/media/5InOJpWtlFiBhdxPdZ/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "5",
-    "Title": "Yoda Figth",
-    "Link": "https://media.giphy.com/media/xTiIzJikOLmbVbiM6c/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "6",
-    "Title": "Yoda Figth II",
-    "Link": "https://media.giphy.com/media/3o84suQdtqLdM834jK/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "7",
-    "Title": "Ben vs Anakin",
-    "Link": "https://media.giphy.com/media/xTiIzNsKe4ghRHXBAY/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "8",
-    "Title": "Darth Vader",
-    "Link": "https://media.giphy.com/media/voKRB2g96S8q4/giphy.gif",
-    "Episode": "III"
-  },
-  {
-    "No.": "1",
-    "Title": "Star Destroyer",
-    "Link": "https://media.giphy.com/media/84zcvmPTFfm2Q/giphy.gif",
-    "Episode": "IV"
-  },
-  {
-    "No.": "2",
-    "Title": "X-Wing and Tie Fighters",
-    "Link": "https://media.giphy.com/media/l0IpWBta9aL7GOoE0/giphy.gif",
-    "Episode": "IV"
-  },
-  {
-    "No.": "3",
-    "Title": "Milenium Falcon ",
-    "Link": "https://cnet3.cbsistatic.com/img/vugc6cb0HLhGtYjW2N4k5ZB_tCc=/fit-in/970x0/2017/05/26/1c524ea3-5c37-4d8f-b5b8-5a135180e449/star-wars-fx-mpc-returnjedi-ships.gif",
-    "Episode": "IV"
-  },
-  {
-    "No.": "4",
-    "Title": "Death Start",
-    "Link": "https://media.giphy.com/media/12vkrV1I4eKqd2/giphy.gif",
-    "Episode": "IV"
-  },
-  {
-    "No.": "1",
-    "Title": "AT-AT",
-    "Link": "https://media.giphy.com/media/l3fZKRnSw933m70VG/giphy.gif",
-    "Episode": "VI"
-  },
-  {
-    "No.": "2",
-    "Title": "U-Wing",
-    "Link": "https://media.giphy.com/media/l3fZLlu5kyX6wZzP2/giphy.gif",
-    "Episode": "VII"
-  },
-  {
-    "No.": "1",
-    "Title": "Milenium Falcon",
-    "Link": "https://media.giphy.com/media/ek2fpwckr4uis/giphy.gif",
-    "Episode": "VII"
-  },
-  {
-    "No.": "2",
-    "Title": "X-Wings",
-    "Link": "https://media.giphy.com/media/14sWUGexMWayc/giphy.gif",
-    "Episode": "VII"
-  }
+    {
+        "No.": "1",
+        "Title": "STAR WARS",
+        "Link": "https://media.giphy.com/media/l1uguGf2RVIsTXNDO/giphy.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "2",
+        "Title": "Yayar Bings",
+        "Link": "https://media.giphy.com/media/3owzVQch8fzfptlES4/giphy.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "3",
+        "Title": "Palace Fight",
+        "Link": "https://giphy.com/gifs/kesu1tiePAiGY/html5",
+        "Episode": "I"
+    },
+    {
+        "No.": "4",
+        "Title": "Naboo escape",
+        "Link": "http://s2.photobucket.com/albums/y5/albumuser/sw/TPM_TFbattleship_quadguns_B.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "5",
+        "Title": "The Phantom Menace Battles ",
+        "Link": "https://giphy.com/gifs/3owzWl4P6JSXQ0tIsM/html5",
+        "Episode": "I"
+    },
+    {
+        "No.": "6",
+        "Title": "Pod Race 1",
+        "Link": "https://media.giphy.com/media/3owzWgnMr5vS37fBsc/giphy.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "7",
+        "Title": "Pod Race 2",
+        "Link": "https://media.giphy.com/media/Cz0sBt2PWecFi/giphy.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "8",
+        "Title": "Pod Race 3",
+        "Link": "https://66.media.tumblr.com/dca871b6fcb5666f102522d1bad4cfef/tumblr_n0qyrfnya41r7nvf3o1_400.gifv",
+        "Episode": "I"
+    },
+    {
+        "No.": "9",
+        "Title": "Pod Race 4",
+        "Link": "https://i.makeagif.com/media/4-17-2017/va1cPD.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "10",
+        "Title": "Pod Race 5",
+        "Link": "https://i.makeagif.com/media/4-17-2017/va1cPD.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "11",
+        "Title": "Darth Maul Figth",
+        "Link": "https://media.giphy.com/media/l3fZPJRijJdedIDAY/giphy.gif",
+        "Episode": "I"
+    },
+    {
+        "No.": "1",
+        "Title": "Coruscant ",
+        "Link": "https://media.giphy.com/media/4fjKLs0CZ4i7m/giphy.gif",
+        "Episode": "II"
+    },
+    {
+        "No.": "2",
+        "Title": "Yoda Padawans",
+        "Link": "https://media.giphy.com/media/26uf4pUSKZkDe9t5u/giphy.gif",
+        "Episode": "II"
+    },
+    {
+        "No.": "3",
+        "Title": "Geonosis 1",
+        "Link": "https://media.giphy.com/media/l1J3rifOpFPOGg7nO/giphy.gif",
+        "Episode": "II"
+    },
+    {
+        "No.": "4",
+        "Title": "Geonosis 2",
+        "Link": "https://media.giphy.com/media/1zi3qrEwtvHBWVVwDV/giphy.gif",
+        "Episode": "II"
+    },
+    {
+        "No.": "5",
+        "Title": "Geonosis 3",
+        "Link": "https://media.giphy.com/media/QZmvO4brtXgCQ/giphy.gif",
+        "Episode": "II"
+    },
+    {
+        "No.": "6",
+        "Title": "Geonosis 4",
+        "Link": "https://media.giphy.com/media/jXOdWw9pKxuU/giphy.gif",
+        "Episode": "II"
+    },
+    {
+        "No.": "7",
+        "Title": "Geonosis 5",
+        "Link": "https://giphy.com/gifs/starwars-star-wars-episode-2-3ohuA8VLLIia9c8Dew",
+        "Episode": "II"
+    },
+    {
+        "No.": "8",
+        "Title": "Geonosis 6",
+        "Link": "https://media.giphy.com/media/3ohuAf73bPJQWaf7Da/giphy.gif",
+        "Episode": "II"
+    },
+    {
+        "No.": "9",
+        "Title": "Geonosis 7",
+        "Link": "https://giphy.com/gifs/starwars-star-wars-episode-2-3ohuAcAAMlAp6sxQZO",
+        "Episode": "II"
+    },
+    {
+        "No.": "1",
+        "Title": "Coruscant Battle 1",
+        "Link": "https://media.giphy.com/media/52dxW0u8NCVUI/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "2",
+        "Title": "Coruscant Battle 2",
+        "Link": "https://giphy.com/gifs/starwars-star-wars-episode-2-3ohuAhRnmGIRiLxF1S",
+        "Episode": "III"
+    },
+    {
+        "No.": "3",
+        "Title": "Coruscant Battle 3",
+        "Link": "https://media.giphy.com/media/LEZu94dmegfIY/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "4",
+        "Title": "Coruscant Battle 4",
+        "Link": "https://media.giphy.com/media/5ExLjVUhCWIi4/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "5",
+        "Title": "Scape Pods",
+        "Link": "https://media.giphy.com/media/5InOJpWtlFiBhdxPdZ/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "6",
+        "Title": "Yoda Figth",
+        "Link": "https://media.giphy.com/media/xTiIzJikOLmbVbiM6c/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "7",
+        "Title": "Yoda Figth II",
+        "Link": "https://media.giphy.com/media/3o84suQdtqLdM834jK/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "8",
+        "Title": "Ben vs Anakin",
+        "Link": "https://media.giphy.com/media/xTiIzNsKe4ghRHXBAY/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "9",
+        "Title": "Darth Vader",
+        "Link": "https://media.giphy.com/media/voKRB2g96S8q4/giphy.gif",
+        "Episode": "III"
+    },
+    {
+        "No.": "1",
+        "Title": "Star Destroyer",
+        "Link": "https://media.giphy.com/media/84zcvmPTFfm2Q/giphy.gif",
+        "Episode": "IV"
+    },
+    {
+        "No.": "2",
+        "Title": "X-Wing and Tie Fighters",
+        "Link": "https://media.giphy.com/media/l0IpWBta9aL7GOoE0/giphy.gif",
+        "Episode": "IV"
+    },
+    {
+        "No.": "3",
+        "Title": "Milenium Falcon ",
+        "Link": "https://cnet3.cbsistatic.com/img/vugc6cb0HLhGtYjW2N4k5ZB_tCc=/fit-in/970x0/2017/05/26/1c524ea3-5c37-4d8f-b5b8-5a135180e449/star-wars-fx-mpc-returnjedi-ships.gif",
+        "Episode": "IV"
+    },
+    {
+        "No.": "4",
+        "Title": "Death Start",
+        "Link": "https://media.giphy.com/media/12vkrV1I4eKqd2/giphy.gif",
+        "Episode": "IV"
+    },
+    {
+        "No.": "1",
+        "Title": "AT-AT",
+        "Link": "https://media.giphy.com/media/l3fZKRnSw933m70VG/giphy.gif",
+        "Episode": "VI"
+    },
+    {
+        "No.": "2",
+        "Title": "U-Wing",
+        "Link": "https://media.giphy.com/media/l3fZLlu5kyX6wZzP2/giphy.gif",
+        "Episode": "VII"
+    },
+    {
+        "No.": "1",
+        "Title": "Milenium Falcon",
+        "Link": "https://media.giphy.com/media/ek2fpwckr4uis/giphy.gif",
+        "Episode": "VII"
+    },
+    {
+        "No.": "2",
+        "Title": "X-Wings",
+        "Link": "https://media.giphy.com/media/14sWUGexMWayc/giphy.gif",
+        "Episode": "VII"
+    }
 ]

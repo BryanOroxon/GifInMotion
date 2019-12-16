@@ -7,6 +7,6 @@ namespace GifInMotion.Services
 {
     public interface IDataService
     {
-        Task<IEnumerable<Movies>> GetCountriesAsync();
+        Task<IEnumerable<Movies>> GetMoviesAsync();
     }
 }
