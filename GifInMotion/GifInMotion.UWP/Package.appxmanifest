@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="25794ebb-26bb-4987-a10d-cb844909ac04"
-    Publisher="CN=c427c593-7d63-48f9-b05c-9f39a2f7adff"
+    Name="c350609f-fa56-4424-a4c7-cd19f2a4b2ce"
+    Publisher="CN=13adba5b-1e6c-4f1f-ad29-3e62692d5da0"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>GifInMotion.UWP</DisplayName>
-    <PublisherDisplayName>c427c593-7d63-48f9-b05c-9f39a2f7adff</PublisherDisplayName>
+    <PublisherDisplayName>13adba5b-1e6c-4f1f-ad29-3e62692d5da0</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

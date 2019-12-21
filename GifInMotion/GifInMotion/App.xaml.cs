@@ -10,7 +10,7 @@ namespace GifInMotion
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Views.MoviesCarrousel());
+            MainPage = new NavigationPage( new Views.HomePage());
         }
 
         protected override void OnStart()

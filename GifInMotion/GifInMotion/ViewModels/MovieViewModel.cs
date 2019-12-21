@@ -21,8 +21,6 @@ namespace GifInMotion.ViewModels
         {
             Movies = new ObservableRangeCollection<Movies>();
             GetMoviesCommand = new Command<string>(async (test) => await GetMoviesAsync(test));
-
-            GetMoviesCommand.Execute("Loading Movies");
         }
 
         async Task GetMoviesAsync(string test)
@@ -36,7 +34,8 @@ namespace GifInMotion.ViewModels
 
                 Movies.ReplaceRange(movies);
 
-                Title = $"Movies CollectionView ({Movies.Count})";
+              //  Title = $"Movies CollectionView ({Movies.Count})";
+                Title = $"{test} ({Movies.Count})";
             }
             catch (Exception ex)
             {
