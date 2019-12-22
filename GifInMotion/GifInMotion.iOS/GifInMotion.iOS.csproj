@@ -141,4 +141,13 @@
       <Name>GifInMotion</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\space.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\space%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\space%403x.png" />
+  </ItemGroup>
 </Project>
