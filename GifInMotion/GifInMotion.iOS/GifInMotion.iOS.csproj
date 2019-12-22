@@ -141,10 +141,4 @@
       <Name>GifInMotion</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\galaxy.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\intro.gif" />
-  </ItemGroup>
 </Project>
