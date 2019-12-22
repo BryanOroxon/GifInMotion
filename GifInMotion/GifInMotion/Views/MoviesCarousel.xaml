@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:viewmodel="clr-namespace:GifInMotion.ViewModels"
     Title="{Binding Title}"
-    BackgroundImageSource="space"
+    BackgroundImageSource="space.png"
     mc:Ignorable="d">
     <ContentPage.Content>
         <CarouselView x:Name="movieViewSource">
