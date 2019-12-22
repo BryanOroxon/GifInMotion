@@ -34,7 +34,6 @@ namespace GifInMotion.ViewModels
 
                 Movies.ReplaceRange(movies);
 
-              //  Title = $"Movies CollectionView ({Movies.Count})";
                 Title = $"{test} ({Movies.Count})";
             }
             catch (Exception ex)
